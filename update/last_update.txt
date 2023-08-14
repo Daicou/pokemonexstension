@@ -1,0 +1,3 @@
+Version: PSPEvolved 0.10.1
+
+Remplacement de tous les POKEMON_S::HASH_BALL par HASH_BALL

@@ -1,0 +1,6 @@
+@classes_no = []
+@enemies_no = []
+@skills_no = []
+@items_no = []
+@armors_no = []
+@weapons_no = []
